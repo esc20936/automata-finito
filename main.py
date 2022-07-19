@@ -1,5 +1,4 @@
 # Importamos los modulos que utilizaremos 
-from webbrowser import get
 import numpy as np
 import pandas as pd
 
